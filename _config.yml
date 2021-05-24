@@ -1,11 +1,11 @@
 # main text of home
 name: Gabriel Lima
-bio: Olá, meu nome é Gabriel Lima, sou desenvolvedor full stack na Senior e estudante de Sistemas de Informações
+bio: Olá, meu nome é Gabriel Lima, sou Analista de Sistema na Senior e estudante de Análise e Desenvolvimento de Sistemas pela Uniasselvi
 
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://avatars2.githubusercontent.com/u/25306660?v=4
+picture: https://avatars2.githubusercontent.com/u/25306660?v=5
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
